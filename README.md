@@ -1,6 +1,6 @@
 ﻿# Requirements
-Windows 10/11/Server >=2019 
-Python >= 3.10
+1. Windows 10/11/Server >=2019 
+2. Python >= 3.10
 
 # Step 1: 
 Install VigemBUS >= 1.20
