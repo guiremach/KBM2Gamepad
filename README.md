@@ -19,3 +19,5 @@ Run `python gamepad.py`
 
 # Default Keyboard mapping: 
 <img src="keyboard-default.png" alt="App Screenshot" width="800">
+*Mouse settings for trigger or analog stick take precedence over keyboard settings.
+E.g.: if you configure the mouse for the right analog stick, the keyboard buttons mapped to the right analog stick will not work.
